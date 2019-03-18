@@ -1,24 +1,29 @@
-# README
+# HackDinner App
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+HackDinner allows individual to make reservation by a click of a button.
 
-Things you may want to cover:
 
-* Ruby version
+## Final Product
 
-* System dependencies
 
-* Configuration
+## Setup
 
-* Database creation
+1. Fork & Clone
+2. Run `bundle install` to install dependencies
+3. Run `bin/rake db:reset` to create, load and seed db
+4. Create .env file based on .env.example
+5. Run `bin/rails s` to start the server
 
-* Database initialization
+## Dependencies:
+- Rails 5.2
+- SQLite3
+- Bcrypt
 
-* How to run the test suite
 
-* Services (job queues, cache servers, search engines, etc.)
 
-* Deployment instructions
 
-* ...
+
+
+
+
+
