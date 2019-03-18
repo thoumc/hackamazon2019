@@ -3,7 +3,7 @@
 HackDinner allows individual to make reservation by a click of a button.
 
 
-## Final Product
+## Product Screenshots (WIP)
 
 !["Home page"](https://github.com/thoumc/hackamazon2019/blob/master/app/assets/images/homepage.png)
 !["Search page"](https://github.com/thoumc/hackamazon2019/blob/master/app/assets/images/search-filter.png)
